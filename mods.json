@@ -12,6 +12,12 @@
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.1.jar",
       "type": "update"
     },
+     {
+      "name": "retrodamageindicators",
+      "file": "retrodamageindicators-1.0.1.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/retrodamageindicators-1.0.1.jar",
+      "type": "normal"
+    },
     {
       "name": "Bookshelf-Forge",
       "file": "Bookshelf-Forge-1.20.1-20.2.15.jar",
