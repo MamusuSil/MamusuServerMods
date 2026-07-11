@@ -8,8 +8,9 @@
     },
     {
       "name": "MamusuMOD",
-      "file": "MamusuMOD.jar",
+      "file": "MamusuMOD-1.0.1.jar",
       "version": "1.0.1",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD%20Ver%201.01.jar",
       "type": "update"
     }
   ]
