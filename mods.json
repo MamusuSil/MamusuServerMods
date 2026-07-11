@@ -3,13 +3,13 @@
     {
       "name": "Create-MOD",
       "file": "create-1.20.1-6.0.8.jar",
-      "url": "URL",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create-1.20.1-6.0.8.jar",
       "type": "normal"
     },
     {
       "name": "MamusuMOD",
       "file": "MamusuMOD-1.0.1.jar",
-      "url": "URL",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.1.jar",
       "type": "update"
     },
     {
