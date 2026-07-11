@@ -3,7 +3,15 @@
     {
       "name": "クリエイトMOD",
       "file": "create-1.20.1-6.0.8.jar",
-      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create-1.20.1-6.0.8.jar"
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create-1.20.1-6.0.8.jar",
+      "type": "normal"
+    },
+    {
+      "name": "MamusuMOD",
+      "file": "MamusuMOD.jar",
+      "url": "ここは後で入れる",
+      "version": "1.0.0",
+      "type": "update"
     }
   ]
 }
