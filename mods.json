@@ -8,14 +8,26 @@
     },
     {
       "name": "MamusuMOD",
-      "file": "MamusuMOD-1.0.5.jar",
-      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.5.jar",
+      "file": "MamusuMOD-1.0.6.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.6.jar",
       "type": "update"
     },
      {
       "name": "retrodamageindicators",
       "file": "retrodamageindicators-1.0.1.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/retrodamageindicators-1.0.1.jar",
+      "type": "normal"
+    },
+    {
+      "name": "CreateNumismatics",
+      "file": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "type": "normal"
+    },
+    {
+      "name": "Steam_Rails",
+      "file": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
       "type": "normal"
     },
     {
