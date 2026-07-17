@@ -8,14 +8,26 @@
     },
     {
       "name": "MamusuMOD",
-      "file": "MamusuMOD-1.0.6.jar",
-      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.6.jar",
+      "file": "MamusuMOD-1.0.7.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.0.7.jar",
       "type": "update"
     },
      {
       "name": "retrodamageindicators",
       "file": "retrodamageindicators-1.0.1.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/retrodamageindicators-1.0.1.jar",
+      "type": "normal"
+    },
+    {
+      "name": "neurolib",
+      "file": "neurolib-0.3.3-all.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/neurolib-0.3.3-all.jar",
+      "type": "normal"
+    },
+    {
+      "name": "mobsuseshields",
+      "file": "mobsuseshields-0.8.5.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/mobsuseshields-0.8.5.jar",
       "type": "normal"
     },
     {
