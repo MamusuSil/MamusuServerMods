@@ -31,6 +31,12 @@
       "type": "normal"
     },
     {
+      "name": "extendedbogeys",
+      "file": "extendedbogeys-0.5.14-1.20.1-0.5.1.f-forge.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/extendedbogeys-0.5.14-1.20.1-0.5.1.f-forge.jar",
+      "type": "normal"
+    },
+    {
       "name": "neurolib",
       "file": "neurolib-0.3.3-all.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/neurolib-0.3.3-all.jar",
