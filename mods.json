@@ -19,6 +19,12 @@
       "type": "normal"
     },
      {
+      "name": "copycats",
+      "file": "copycats-3.0.7+mc.1.20.1-forge.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/copycats-3.0.7+mc.1.20.1-forge.jar",
+      "type": "normal"
+    },
+     {
       "name": "create_bb",
       "file": "create_bb-1.0.7-1.20.1-Forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create_bb-1.0.7-1.20.1-Forge.jar",
