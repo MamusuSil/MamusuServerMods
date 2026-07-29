@@ -18,6 +18,12 @@
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/retrodamageindicators-1.0.1.jar",
       "type": "normal"
     },
+     {
+      "name": "create_bb",
+      "file": "create_bb-1.0.7-1.20.1-Forge.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create_bb-1.0.7-1.20.1-Forge.jar",
+      "type": "normal"
+    },
     {
       "name": "AnvilNeverTooExpensive",
       "file": "AnvilNeverTooExpensive-1.20.1-1.1.jar",
