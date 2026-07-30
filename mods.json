@@ -30,6 +30,12 @@
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create_bb-1.0.7-1.20.1-Forge.jar",
       "type": "normal"
     },
+     {
+      "name": "createbigcannons",
+      "file": "createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "type": "normal"
+    },
     {
       "name": "AnvilNeverTooExpensive",
       "file": "AnvilNeverTooExpensive-1.20.1-1.1.jar",
