@@ -12,7 +12,7 @@
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/MamusuMOD-1.3.3.jar",
       "type": "update"
     },
-     {
+    {
       "name": "retrodamageindicators",
       "file": "retrodamageindicators-1.0.1.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/retrodamageindicators-1.0.1.jar",
@@ -24,37 +24,37 @@
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/dragonlib-forge-1.20.1-beta-3.0.28.jar",
       "type": "normal"
     },
-       {
+    {
       "name": "createrailwaysnavigator",
       "file": "createrailwaysnavigator-forge-1.20.1-beta-0.9.1-C6.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/createrailwaysnavigator-forge-1.20.1-beta-0.9.1-C6.jar",
       "type": "normal"
     },
-     {
+    {
       "name": "copycats",
       "file": "copycats-3.0.7+mc.1.20.1-forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/copycats-3.0.7+mc.1.20.1-forge.jar",
       "type": "normal"
     },
-     {
+    {
       "name": "tram_additions",
       "file": "tram_additions-forge-1.7.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/tram_additions-forge-1.7.jar",
       "type": "normal"
     },
-     {
+    {
       "name": "create_bb",
       "file": "create_bb-1.0.7-1.20.1-Forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create_bb-1.0.7-1.20.1-Forge.jar",
       "type": "normal"
     },
-     {
+    {
       "name": "ritchiesprojectilelib",
       "file": "ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/ritchiesprojectilelib-2.1.1-mc.1.20.1-forge.jar",
       "type": "normal"
     },
-     {
+    {
       "name": "createbigcannons",
       "file": "createbigcannons-5.11.4-mc.1.20.1-forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
