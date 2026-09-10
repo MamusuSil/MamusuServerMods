@@ -37,12 +37,6 @@
       "type": "normal"
     },
     {
-      "name": "tram_additions",
-      "file": "tram_additions-forge-1.7.jar",
-      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/tram_additions-forge-1.7.jar",
-      "type": "normal"
-    },
-    {
       "name": "create_bb",
       "file": "create_bb-1.0.7-1.20.1-Forge.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create_bb-1.0.7-1.20.1-Forge.jar",
