@@ -19,6 +19,12 @@
       "type": "normal"
     },
     {
+      "name": "create-enchantment-industry",
+      "file": "create-enchantment-industry-2.5.4.jar",
+      "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/create-enchantment-industry-2.5.4.jar",
+      "type": "normal"
+    },
+    {
       "name": "dragonlib-forge",
       "file": "dragonlib-forge-1.20.1-beta-3.0.28.jar",
       "url": "https://github.com/MamusuSil/MamusuServerMods/raw/refs/heads/main/mods/dragonlib-forge-1.20.1-beta-3.0.28.jar",
